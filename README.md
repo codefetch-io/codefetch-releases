@@ -22,7 +22,7 @@ iwr https://github.com/codefetch-io/codefetch-releases/releases/latest/download/
 curl -fsSL https://github.com/codefetch-io/codefetch-releases/releases/latest/download/install.sh | bash
 ```
 
-**Manual Uninstall (Windows)**
+**Manual Uninstall (Linux)**
 
 ```
 curl -fsSL https://github.com/codefetch-io/codefetch-releases/releases/latest/download/uninstall.sh | bash
