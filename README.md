@@ -14,3 +14,16 @@ iwr https://github.com/codefetch-io/codefetch-releases/releases/latest/download/
 ```
 iwr https://github.com/codefetch-io/codefetch-releases/releases/latest/download/uninstall.ps1 | iex
 ```
+
+
+**Manual Install (Linux)**
+
+```
+curl -fsSL https://github.com/codefetch-io/codefetch-releases/releases/latest/download/install.sh | bash
+```
+
+**Manual Uninstall (Windows)**
+
+```
+curl -fsSL https://github.com/codefetch-io/codefetch-releases/releases/latest/download/uninstall.sh | bash
+```
