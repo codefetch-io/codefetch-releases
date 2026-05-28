@@ -6,13 +6,13 @@ This repository contains the CLI and VSCode extension releases to use with the C
 **Manual Install (Windows)**
 
 ```
-iwr -usebasicparsing https://github.com/codefetch-io/codefetch-releases/releases/latest/download/install.ps1 | iex
+iwr -UseBasicParsing https://github.com/codefetch-io/codefetch-releases/releases/latest/download/install.ps1 | iex
 ```
 
 **Manual Uninstall (Windows)**
 
 ```
-iwr -usebasicparsing https://github.com/codefetch-io/codefetch-releases/releases/latest/download/uninstall.ps1 | iex
+iwr -UseBasicParsing https://github.com/codefetch-io/codefetch-releases/releases/latest/download/uninstall.ps1 | iex
 ```
 
 
